@@ -327,8 +327,14 @@ doit proc			; proc -- procedure
 
 	; --------------------------------------- Bit Fields- Not Operator -------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=UmYZ8SnHjBI&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=21
+	
+	; not Operator is a uninary operator that inverses the value 
+	; not 1 -> 0
+	; not 0 -> 1
 
-
+	; not 1 0 1 1 0 1 0 1 1 0 0
+	; -------------------------
+	;     0 1 0 0 1 0 1 0 0 1 1
 
 
 
