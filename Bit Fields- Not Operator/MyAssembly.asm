@@ -325,6 +325,9 @@ doit proc			; proc -- procedure
 	;  ----------
 	;     0 1
 
+	; --------------------------------------- Bit Fields- Not Operator -------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=UmYZ8SnHjBI&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=21
+
 
 
 
